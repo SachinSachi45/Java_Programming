@@ -37,7 +37,7 @@ public class PangramProgram {
 //				fre[ch-'a']++;
 //			}
 //		}
-//		for(int i=0;i<26;i++)
+//		for(int i=0;i<;i++)
 //		{
 //			if(fre[i]==0)
 //				return false;
